@@ -1,2 +1,2 @@
 # Master_mind
-A fun game build up on Python.
+A fun webapp build up on Python.
